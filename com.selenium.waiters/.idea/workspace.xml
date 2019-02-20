@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="878b8b10-1830-4113-9236-ed90b6179bcd" name="Default Changelist" comment="" />
+    <list default="true" id="878b8b10-1830-4113-9236-ed90b6179bcd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/.gradle/4.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../com.pageobject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/out/production/classes/com/pages/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/out/production/classes/com/pages/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/out/production/classes/com/pages/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/out/production/classes/com/pages/MyAccountPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/out/production/classes/com/test/PageObjectTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/out/production/resources/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/src/main/java/com/pages/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/src/main/java/com/pages/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/src/main/java/com/pages/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/src/main/java/com/pages/MyAccountPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/src/main/java/com/test/PageObjectTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pageobject/src/main/resources/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/WaitersPracticeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/WaitersPracticeTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -53,18 +89,44 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1272546481">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="136" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="136" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/WaitersPracticeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1343">
-              <caret line="79" column="20" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
+            <state relative-caret-position="189">
+              <caret line="72" column="68" selection-start-line="72" selection-start-column="68" selection-end-line="72" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3964#3965#0" expanded="true" />
-                <element signature="e#3993#3994#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -73,7 +135,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.141.59/8e9423038552821844ba5f7713cc4c1e6d9835b7/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/WebDriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
+            <state relative-caret-position="1513">
               <caret line="110" column="13" selection-start-line="110" selection-start-column="13" selection-end-line="110" selection-end-column="13" />
             </state>
           </provider>
@@ -82,8 +144,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/3.141.59/7e42f1c3e43d22f2c299b74356137dc6f2f455ec/selenium-support-3.141.59-sources.jar!/org/openqa/selenium/support/ui/ExpectedConditions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4250">
-              <caret line="295" column="46" selection-start-line="295" selection-start-column="46" selection-end-line="295" selection-end-column="46" />
+            <state relative-caret-position="325">
+              <caret line="579" column="43" lean-forward="true" selection-start-line="579" selection-start-column="43" selection-end-line="579" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -106,10 +168,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\Bogdan\.gradle\wrapper\dists\gradle-4.8-bin\divx0s2uj4thofgytb7gf9fsi\gradle-4.8" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\Bogdan\.gradle\wrapper\dists\gradle-4.8-all\41c9mvq2w0645xx6nsenaerjl\gradle-4.8" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -480,10 +545,17 @@
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1364" />
     <option name="height" value="728" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -532,13 +604,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550526689722" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -589,15 +662,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="WaitersPracticeTest_testS1Demo - 2019.02.18 at 22h 43m 36s.xml">
-      <configuration name="WaitersPracticeTest.testS1Demo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="WaitersPracticeTest_testS1Demo - 2019.02.18 at 22h 44m 22s.xml">
-      <configuration name="WaitersPracticeTest.testS1Demo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="WaitersPracticeTest_testS1Demo - 2019.02.18 at 22h 55m 55s.xml">
-      <configuration name="WaitersPracticeTest.testS1Demo" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="WaitersPracticeTest_testS1Demo - 2019.02.18 at 23h 25m 31s.xml">
       <configuration name="WaitersPracticeTest.testS1Demo" configurationId="JUnit" />
     </history-entry>
@@ -619,11 +683,21 @@
     <history-entry file="WaitersPracticeTest_testS1Demo - 2019.02.18 at 23h 51m 37s.xml">
       <configuration name="WaitersPracticeTest.testS1Demo" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="WaitersPracticeTest_testS1Demo - 2019.02.21 at 00h 29m 14s.xml">
+      <configuration name="WaitersPracticeTest.testS1Demo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WaitersPracticeTest_testS1Demo - 2019.02.21 at 00h 31m 07s.xml">
+      <configuration name="WaitersPracticeTest.testS1Demo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WaitersPracticeTest_testS1Demo - 2019.02.21 at 00h 32m 46s.xml">
+      <configuration name="WaitersPracticeTest.testS1Demo" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1505295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -632,12 +706,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.3289689" />
@@ -650,7 +724,7 @@
       <window_info anchor="right" id="Gradle" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -678,10 +752,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/3.141.59/7e42f1c3e43d22f2c299b74356137dc6f2f455ec/selenium-support-3.141.59-sources.jar!/org/openqa/selenium/support/ui/ExpectedConditions.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.141.59/8e9423038552821844ba5f7713cc4c1e6d9835b7/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/WebDriver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4250">
-          <caret line="295" column="46" selection-start-line="295" selection-start-column="46" selection-end-line="295" selection-end-column="46" />
+        <state relative-caret-position="1513">
+          <caret line="110" column="13" selection-start-line="110" selection-start-column="13" selection-end-line="110" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -692,32 +766,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/3.141.59/7e42f1c3e43d22f2c299b74356137dc6f2f455ec/selenium-support-3.141.59-sources.jar!/org/openqa/selenium/support/ui/ExpectedConditions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="93" column="23" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
-          <folding>
-            <element signature="e#2657#2658#0" expanded="true" />
-            <element signature="e#2683#2684#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="325">
+          <caret line="579" column="43" lean-forward="true" selection-start-line="579" selection-start-column="43" selection-end-line="579" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.141.59/8e9423038552821844ba5f7713cc4c1e6d9835b7/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/WebDriver.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="110" column="13" selection-start-line="110" selection-start-column="13" selection-end-line="110" selection-end-column="13" />
+        <state relative-caret-position="-1162">
+          <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
+          <folding>
+            <element signature="e#2657#2658#0" expanded="true" />
+            <element signature="e#2683#2684#0" expanded="true" />
+            <element signature="e#4403#4404#0" expanded="true" />
+            <element signature="e#4455#4456#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/WaitersPracticeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1343">
-          <caret line="79" column="20" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
+        <state relative-caret-position="189">
+          <caret line="72" column="68" selection-start-line="72" selection-start-column="68" selection-end-line="72" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3964#3965#0" expanded="true" />
-            <element signature="e#3993#3994#0" expanded="true" />
           </folding>
         </state>
       </provider>

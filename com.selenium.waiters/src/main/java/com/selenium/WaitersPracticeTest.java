@@ -24,7 +24,7 @@ public class WaitersPracticeTest {
      */
     @Before
     public void setUp() {
-        System.setProperty("webdriver.chrome.driver", "src//main//resources//chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver.exe");
         ChromeOptions options = new ChromeOptions();
         options.addArguments("disable-infobars");
         driver = new ChromeDriver();
@@ -51,29 +51,32 @@ public class WaitersPracticeTest {
         driver.findElement(By.xpath("//input[@name='txtPassword']")).sendKeys(PASS);
         driver.findElement(By.xpath("//input[@name='Submit']")).click();
         //Verify text of the warning message when creds are wrong
-        Assert.assertEquals(driver.findElement(By.xpath("//span[@id='spanMessage' and contains(text(),'Invalid credentials')]")).getText(), "Invalid credentials");
+        Assert.assertEquals("Invalid credentials", driver.findElement(By.xpath("//span[@id='spanMessage']")).getText());
         driver.findElement(By.xpath("//input[@name='Submit']")).click();
-        waiter.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@id='spanMessage' and contains(text(),'Username cannot be empty')]")));
+        waiter.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@id='spanMessage']")));
         //Verify text of the warning message when fields are empty
-        Assert.assertEquals(driver.findElement(By.xpath("//span[@id='spanMessage' and contains(text(),'Username cannot be empty')]")).getText(), "Username cannot be empty");
-        waiter.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@id='spanMessage' and contains(text(),'Username cannot be empty')]")));
+        Assert.assertEquals("Username cannot be empty", driver.findElement(By.xpath("//span[@id='spanMessage']")).getText());
+        waiter.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@id='spanMessage']")));
         //Attempt to log in only with username
         driver.findElement(By.xpath("//input[@name='txtUsername']")).sendKeys(USERNAME);
         driver.findElement(By.xpath("//input[@name='Submit']")).click();
-        waiter.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@id='spanMessage' and contains(text(),'Password cannot be empty')]")));
+        waiter.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@id='spanMessage']")));
         //Verify text of the warning message
-        Assert.assertEquals(driver.findElement(By.xpath("//span[@id='spanMessage']")).getText(), "Password cannot be empty");
+        Assert.assertEquals("Password cannot be empty", driver.findElement(By.xpath("//span[@id='spanMessage']")).getText());
         //Return back from the iframe
         driver.switchTo().defaultContent();
         //Close frame
         driver.findElement(By.xpath("//span[contains(text(),'Remove Frame')]")).click();
         //Check whether frame is closed
-        try {
-            driver.findElement(By.tagName("iframe"));
-            System.out.println("Is still present");
-        } catch (NoSuchElementException e) {
-            System.out.println(e);
-        }
+        waiter.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath("//iframe")));
+
+        //Another way to verify presence of the iframe after closing
+//        try {
+//            driver.findElement(By.tagName("iframe"));
+//            System.out.println("Is still present");
+//        } catch (NoSuchElementException e) {
+//            System.out.println(e);
+//        }
     }
 
     /**
